@@ -11,3 +11,4 @@ for z in x:
     sum = sum + int(z)
 
 print(sum)
+print("Hello World")
